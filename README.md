@@ -24,7 +24,7 @@ During my internship at Lenskart.com, I had the opportunity to work on an exciti
 - Looking for Remote Frontend Devloper Roles
 - Exloring Open Source
 - Improving on my Current skills and learning something new everyday.
-- Building a Full Stack Threads clone App using NextJS
+- Building a Full Stack Threads clone App using NextJS & learning Typescript
 - Exploring Web3, Blockchain, Smart Contracts and Solidity
 
 ## 🌐 Where to Find Me
