@@ -1,5 +1,31 @@
+<p align="center">
+  <img src="https://drive.google.com/uc?id=19vF_uIP6QCpG8VQ7T5CREQqiGQ7OxmAb" alt="profile_img" width="300" />
+</p>
+ 
 # Hi there, I'm Aakash Raj! 👋
-Welcome to my GitHub repository, where I bring my passion for web development and software engineering to life. I'm currently pursuing a B.Tech in Electronics and Communication Engineering at G.L Bajaj Institute of Technology and Management, with a strong drive for innovation and problem-solving. I'm on a journey to become a skilled frontend developer, actively exploring the world of blockchain development, and seeking remote opportunities to grow and contribute to exciting projects. 
+
+## What I have done
+### Frontend Developer Internship at Lenskart.com
+
+During my internship at Lenskart.com, I had the opportunity to work on an exciting project that significantly impacted the Aqualens product website. Here's what I accomplished:
+
+- **Project Scope**: I played a pivotal role in transitioning the code base of the Aqualens product website from Shopify to Next.js, enhancing the website's performance and user experience.
+
+- **Performance Enhancement**: Through rigorous optimization techniques and leveraging Next.js features, I successfully improved the website's performance by an impressive 18%. This optimization not only enhanced user satisfaction but also contributed to a faster and more efficient user experience.
+
+### Full-Stack Web-App [Cloudsify](https://github.com/AakashRaj20/Cloudify)
+
+- "Cloudsify" is an all-in-one weather forecast web app that I designed and built from the ground up. 
+- It provides up-to-date weather information for various cities, offers dynamic weather visualization using React Leaflet, and allows users to track weather data for multiple cities. 
+- The app also integrates user authentication through Firebase for personalized features.
+- This experience allowed me to strengthen my skills in both frontend and backend development and reinforced my passion for creating meaningful web applications.
+
+## What I am doing
+- Looking for Remote Frontend Devloper Roles
+- Exloring Open Source
+- Improving on my Current skills and learning something new everyday.
+- Building a Full Stack Threads clone App using NextJS
+- Exploring Web3, Blockchain, Smart Contracts and Solidity
 
 ## 🌐 Where to Find Me
 <a href="https://www.linkedin.com/in/aakashraj20/">
